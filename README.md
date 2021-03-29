@@ -11,4 +11,4 @@
 ## business problem
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/demo-face-gan)
 
-![Wellcome](/?raw=True)
+![Wellcome](/01.png?raw=True)
