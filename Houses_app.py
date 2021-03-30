@@ -1,3 +1,4 @@
+# Import necessary libraries
 import pandas as pd
 import streamlit as st
 import numpy as np
@@ -10,22 +11,18 @@ from datetime import datetime
 # Expand layout page
 st.set_page_config(layout='wide')
 
+# O recurso @st.cahe() permite que o amarzenar os dados em mémoria cache e agilizar a visualizalção dos dados
 @st.cache(allow_output_mutation = True)
+
+# Definindo uma função para ler o arquivo CSV
 def add_data(path):
     data = pd.read_csv(path)
 
     return data
 
-def add_geofile(url):
-    geofile = geopandas.read(url)
-
-    return geofile
-# Add data
+# Add data path
 path = 'kc_house_data.csv'
 data = add_data(path)
-
-#url = 'https://opendata.arcgis.com/datasets/83fc2e72903343aabff6de8cb445b81c_2.geojson'
-#geofile = add_geofile(url)
 
 # Overview attributes
 st.title('Houses Business Analyse App')
