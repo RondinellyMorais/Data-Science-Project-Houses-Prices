@@ -10,14 +10,14 @@
 [![Documentation Status](https://readthedocs.com/projects/streamlit-streamlit/badge/?version=latest)](https://docs.streamlit.io/en/latest/?badge=latest)
 
 ## business problem
-<p align="justify"> No geral, quando um CEO tem que avaliar quais os melhores imóveis que devem ser comprados e ainda qual melhor
-  momento de comprar ou vender de modo a ter o máximo de lucro e consequentimente reduzir os prováveis prejuízos. Mesmo para um pessoa de negocios experiente não é fácil tomar a melhor decisão nesse sentido.</p>
+<p align="justify"> In general, when a CEO has to assess which are the best properties to buy and which is the best
+  time to buy or sell in order to have the maximum profit and consequently reduce the probable losses. Even for an experienced business person it is not easy to make the best decision in this regard.</p>
   
-  <p align="justify"> Sem dúvida podemos criar uma ferramenta de análise de dados que possar ajudar na tarefa de melhor tomada de desição. Usando uma base de dados que coinsiste  em dados de venda e compra de casas da cidade Seattler compilei um simples, mas porém poderoso aplicativo python com base no streamlit. </p>
+  <p align="justify"> Undoubtedly, we can create a data analysis tool that can help in the task of making the best decision. Using a database that consists data of sale and purchase of houses of the city Seattle. I compiled a simple, but powerful python application based on streamlit. </p>
   
-   <p align="justify"> O aplicativo mostra várias informações sobre os imóveis e essas informações podem ser selecionados atráves de uma série de filtros. Com isso podemos ter uma fácil visualização dos atributos mais importantes. O aplicativo exibe um mapa iterativo que permite vermos a densidade distribuições das casas.</p>
+   <p align="justify">The application shows various information about the properties and this information can be selected through a series of filters. With this we can have an easy view of the most important attributes. The application also displays an iterative map that allows us to see the density distributions of the houses.</p>
    
-   <p align="justify"> O aplicativo ainda permite controlarmos uma importante informação, a variação do preço das casas com tempo. Sendo posível selecionar um período de tempo específico onde preços sejam os mais favoráveis para compra ou venda. Por fim, podemos selecionar os imóveis com base números de banheiros, pisos e vista para água.</p>
+   <p align="justify"> The application also allows us to control important information, the variation in house prices over time. It is possible to select a specific period of time where prices are the most favorable for buying or selling. Finally, we can select properties based on number of bathrooms, water view floors and others.</p>
   
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/demo-face-gan)
 
