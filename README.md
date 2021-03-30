@@ -22,7 +22,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/demo-face-gan)
 
 
-![Wellcome](/02.png?raw=True)
+![Wellcome](images/02.png?raw=True)
 
 ![Wellcome](/03.png?raw=True)
 
