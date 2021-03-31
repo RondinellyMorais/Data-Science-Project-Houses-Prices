@@ -3,9 +3,10 @@
 <p align="justify"> This project aims to show how to create web applications based on the streamlit library and
   that these can be applicable to real business problems. </p>
 <p align="justify"> I used the dataset "kc_house_data" as the data base for building the application in streamlit.</p>
-<p align=""> The original dadaet can be found at https://www.kaggle.com/swathiachath/kc-housesales-data. </p>
+<p align=""> The original dataset can be found at https://www.kaggle.com/swathiachath/kc-housesales-data. </p>
 <p align="">Streamlit is a powerful open-source Python library that makes it easy to create and share elegant, 
   custom web apps for machine learning and data science </p>
+  <p align=""> The commented app code is found in Houses_app  </p> 
   
 [![Documentation Status](https://readthedocs.com/projects/streamlit-streamlit/badge/?version=latest)](https://docs.streamlit.io/en/latest/?badge=latest)
 [![author](https://img.shields.io/badge/author-rondinelly-red.svg)](https://www.linkedin.com/in/rondinellyoliveiradatascience)
