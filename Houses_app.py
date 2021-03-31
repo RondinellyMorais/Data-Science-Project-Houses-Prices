@@ -1,3 +1,5 @@
+# Houses_app.py
+# Nesse projeto aplicativo streamlit comentamos as principais partes do código que usamos para construir o app.
 # Import necessary libraries
 import pandas as pd
 import streamlit as st
@@ -11,7 +13,7 @@ from datetime import datetime
 # Expand layout page
 st.set_page_config(layout='wide')
 
-# O recurso @st.cahe() permite que o amarzenar os dados em mémoria cache e agilizar a visualizalção dos dados 
+# O recurso @st.cahe() permite amarzenar os dados em mémoria cache e agilizar a visualizalção dos dados 
 @st.cache(allow_output_mutation = True)
 
 # Definindo uma função para ler o arquivo CSV
