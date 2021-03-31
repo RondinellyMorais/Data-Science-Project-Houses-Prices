@@ -11,7 +11,7 @@
 [![author](https://img.shields.io/badge/author-rondinelly-red.svg)](https://www.linkedin.com/in/rondinellyoliveiradatascience)
 ## business problem
 <p align="justify"> In general, when a CEO has to assess which are the best properties to buy and which is the best
-  time to buy or sell in order to have the maximum profit and consequently reduce the probable losses. Even for an experienced business person it is not easy to make the best decision in this regard.</p>
+  time to buy or sell in order to him have the maximum profit and consequently reduce the probable losses. Even for an experienced business person it is not easy to make the best decision in this regard.</p>
   
   <p align="justify"> Undoubtedly, we can create a data analysis tool that can help in the task of making the best decision. Using a database that consists data of sale and purchase of houses of the city Seattle. I compiled a simple, but powerful python application based on streamlit. </p>
   
