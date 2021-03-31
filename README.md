@@ -6,7 +6,7 @@
 <p align=""> The original dataset can be found at https://www.kaggle.com/swathiachath/kc-housesales-data. </p>
 <p align="">Streamlit is a powerful open-source Python library that makes it easy to create and share elegant, 
   custom web apps for machine learning and data science </p>
-  <p align=""> The commented app code is found in Houses_app  </p> 
+ <p align=""> The commented app code is found in Houses_app https://github.com/RondinellyMorais/Data-Science-Project-Houses-Prices/blob/master/Houses_app.py </p> 
   
 [![Documentation Status](https://readthedocs.com/projects/streamlit-streamlit/badge/?version=latest)](https://docs.streamlit.io/en/latest/?badge=latest)
 [![author](https://img.shields.io/badge/author-rondinelly-red.svg)](https://www.linkedin.com/in/rondinellyoliveiradatascience)
