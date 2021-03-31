@@ -1,4 +1,4 @@
-# Importando a bibliotecas necessárias
+# Importando as bibliotecas necessárias
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -9,7 +9,7 @@ from sklearn.ensemble import RandomForestClassifier
 # O comando abaixo permite que as janelas exibidas ocupem maior espaço em tela.
 st.set_page_config(layout='wide')
 
-# Aqui escrevemos um pequena descrição da funcionalidade do aplicativo
+# Aqui escrevemos uma pequena descrição da funcionalidade do aplicativo
 st.write("""
 # Heart sick Prediction App
 
@@ -24,7 +24,7 @@ st.sidebar.markdown("""
 [Example CSV input file](https://raw.githubusercontent.com/RondinellyMorais/heart_health/main/df_exemple.csv)
 """)
 
-# No trecho de código abaixo construimos todos os seletores de barra e de caixa nessários
+# No trecho de código abaixo construimos todos os seletores de barra e de caixa nessários para inserir todas as features
 # Collects user input features into dataframe
 uploaded_file = st.sidebar.file_uploader("Upload your input CSV file", type=["csv"])
 if uploaded_file is not None:
@@ -68,7 +68,7 @@ df = df[:1]
 
 st.subheader('User Input parameters')
 
-# Esse comando permite que caso o programa não carrego o dataset, possamos adicionar manualmente o dataset
+# Esse comando permite que caso o programa não carrego o dataset, possamos adicionar-lo manualmente
 if uploaded_file is not None:
     st.write(df)
 else:
