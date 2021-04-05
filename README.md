@@ -8,6 +8,7 @@
   custom web apps for machine learning and data science </p>
  <p align=""> The commented app code is found in Houses_app https://github.com/RondinellyMorais/Data-Science-Project-Houses-Prices/blob/master/Houses_app.py 
  end we may view the app work in the link https://share.streamlit.io/rondinellymorais/houses-view-app/Houses_deploy.py </p> 
+ 
  ## Others projects
   <p align=""> I compiled an app to predict whether someone might have heart problems https://github.com/RondinellyMorais/Data-Science-Project-Houses-Prices/tree/master/Heart%20Care%20Streamlit%20App</p>
   
