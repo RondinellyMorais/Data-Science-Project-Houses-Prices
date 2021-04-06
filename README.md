@@ -10,9 +10,9 @@
  end we may view the app work in the link https://share.streamlit.io/rondinellymorais/houses-view-app/Houses_deploy.py </p> 
  
  ## Others projects
-  <p align=""> I compiled an app to predict whether someone might have heart problems https://github.com/RondinellyMorais/Data-Science-Project-Houses-Prices/tree/master/Heart%20Care%20Streamlit%20App </p>
+  <p align=""> I compiled an app to predict whether someone might have heart problems https://github.com/RondinellyMorais/Data-Science-Project-Houses-Prices/tree/master/Heart%20Care%20Streamlit%20App and we may view the app work in the link  https://share.streamlit.io/rondinellymorais/streamlit-app/Heart-care-app.py </p>
   
- <p align=""> Here we have an application that predicts the number of rentals per hour of a company https://github.com/RondinellyMorais/Data-Science-Project-Houses-Prices/tree/master/Bike_Rental_Prediction </p>
+ <p align=""> Here we have an application that predicts the number of rentals per hour of a company https://github.com/RondinellyMorais/Data-Science-Project-Houses-Prices/tree/master/Bike_Rental_Prediction and we may view the app work in the link https://share.streamlit.io/rondinellymorais/rental_bikes_app/bike_app.py </p>
   
 [![Documentation Status](https://readthedocs.com/projects/streamlit-streamlit/badge/?version=latest)](https://docs.streamlit.io/en/latest/?badge=latest)
 [![author](https://img.shields.io/badge/author-rondinelly-red.svg)](https://www.linkedin.com/in/rondinellyoliveiradatascience)
