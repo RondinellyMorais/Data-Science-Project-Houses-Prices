@@ -16,6 +16,8 @@
   
 [![Documentation Status](https://readthedocs.com/projects/streamlit-streamlit/badge/?version=latest)](https://docs.streamlit.io/en/latest/?badge=latest)
 [![author](https://img.shields.io/badge/author-rondinelly-red.svg)](https://www.linkedin.com/in/rondinellyoliveiradatascience)
+
+
 ## business problem
 <p align="justify"> In general, when a CEO has to assess which are the best properties to buy and which is the best
   time to buy or sell in order to him have the maximum profit and consequently reduce the probable losses. Even for an experienced business person it is not easy to make the best decision in this regard.</p>
